@@ -1,0 +1,25 @@
+{
+  "name": "earthly",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/montyanderson/earthly.git"
+  },
+  "author": "Monty Anderson <monty.linux@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/montyanderson/earthly/issues"
+  },
+  "homepage": "https://github.com/montyanderson/earthly#readme",
+  "dependencies": {
+    "chokidar": "^1.7.0"
+  }
+}
