@@ -1,6 +1,6 @@
 # earthly
 
-An ES6+ compatible, down-to-earth build tool.
+An ES8 compatible, down-to-earth build tool.
 
 ## Usage
 
